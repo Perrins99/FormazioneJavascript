@@ -1,0 +1,1 @@
+let yourArray = ['Francesco', true, 5 , {lastName: 'Perrino'},99]; // Change this line
